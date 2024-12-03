@@ -1,1 +1,1 @@
-veracode-api-py>=TODO: add new version
+veracode-api-py>=0.9.57
